@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TTBS</string>
+    <string-array name="spinner_array">
+        <item>Auto Mechanic</item>
+        <item>Auto Denter (Panel Beater)</item>
+        <item>Auto Electrician</item>
+        <item>Beautician</item>
+        <item>Building Painter</item>
+        <item>Carpenter</item>
+        <item>Civil Draftsman</item>
+
+        <item>Computer Hardware Maintenance</item>
+        <item>Computer Operator</item>
+        <item>Data Entry Operator</item>
+        <item>Conveyor Belt Technician</item>
+        <item>Dress Making and Designing</item>
+
+        <item>E/M Technician</item>
+        <item>E-Filing</item>
+        <item>Electrician (Domestic)</item>
+        <item>General Electrician</item>
+        <item>Electronics Technician</item>
+        <item>Industrial Electronics</item>
+
+        <item>Embroidery Machine Operator (Manual)</item>
+        <item>Fabricator</item>
+        <item>General Fitter</item>
+        <item>Gas Fitter</item>
+        <item>Generator Mechanic</item>
+
+        <item>Generator Mechanic Technician</item>
+        <item>Hair Dresser</item>
+        <item>HVAC Technician</item>
+        <item>Lift Technician</item>
+        <item>Machinist</item>
+
+        <item>Maintenance Technician Mechanical</item>
+        <item>Mobile Phone Repairing</item>
+        <item>Motor Pump Mechanic</item>
+        <item>Motor Pump Operator</item>
+        <item>Motor Pump Technician</item>
+        <item>Plumber</item>
+        <item>Refrigeration and Air Conditioning (Domestic)</item>
+        <item>Refrigeration and Air Conditioning Technician</item>
+        <item>Stenography</item>
+        <item>Tailoring</item>
+        <item>Telecommunication Technician</item>
+        <item>Tile Fixer</item>
+        <item>General Welder</item>
+        <item>Welder (Domestic)</item>
+        <item>Steel Welding</item>
+        <item>PE Welder</item>
+
+
+    </string-array>
+</resources>
